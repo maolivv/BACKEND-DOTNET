@@ -1,0 +1,14 @@
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\bin\Debug\net8.0\desafioHotel.exe
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\bin\Debug\net8.0\desafioHotel.deps.json
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\bin\Debug\net8.0\desafioHotel.runtimeconfig.json
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\bin\Debug\net8.0\desafioHotel.dll
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\bin\Debug\net8.0\desafioHotel.pdb
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\desafioHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\desafioHotel.AssemblyInfoInputs.cache
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\desafioHotel.AssemblyInfo.cs
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\desafioHotel.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\desafioHotel.dll
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\refint\desafioHotel.dll
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\desafioHotel.pdb
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\desafioHotel.genruntimeconfig.cache
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafioHotel\obj\Debug\net8.0\ref\desafioHotel.dll
