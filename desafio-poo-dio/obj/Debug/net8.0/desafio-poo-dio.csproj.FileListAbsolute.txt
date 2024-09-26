@@ -1,0 +1,14 @@
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\bin\Debug\net8.0\desafio-poo-dio.exe
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\bin\Debug\net8.0\desafio-poo-dio.deps.json
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\bin\Debug\net8.0\desafio-poo-dio.runtimeconfig.json
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\bin\Debug\net8.0\desafio-poo-dio.dll
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\bin\Debug\net8.0\desafio-poo-dio.pdb
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\desafio-poo-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\desafio-poo-dio.AssemblyInfoInputs.cache
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\desafio-poo-dio.AssemblyInfo.cs
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\desafio-poo-dio.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\desafio-poo-dio.dll
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\refint\desafio-poo-dio.dll
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\desafio-poo-dio.pdb
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\desafio-poo-dio.genruntimeconfig.cache
+C:\Users\Desktop\Downloads\BACKEND-DOTNET\desafio-poo-dio\obj\Debug\net8.0\ref\desafio-poo-dio.dll
